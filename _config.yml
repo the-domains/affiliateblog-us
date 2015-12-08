@@ -2,6 +2,7 @@ name: affiliateblog.us
 favicon: null
 layout_spectrum: 0.968591055367142
 typography_spectrum: 0.0951299867592752
+title: Affiliate Blog
 cta:
   domain: null
   bucket: null
