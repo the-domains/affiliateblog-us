@@ -1,0 +1,28 @@
+name: affiliateblog.us
+favicon: null
+layout_spectrum: 0.968591055367142
+typography_spectrum: 0.0951299867592752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.45797392865642905
+  lightness: 0.3668130235746503
+  saturation: 0.7742891313973814
+  rhythmicContrast: 0.4610158558934927
+purpose: []
